@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['吃饭', '睡觉', '玩游戏', '人间乐事🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['吃饭', '睡觉', '自言自语', '不爱码字🥳'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
@@ -19,7 +19,7 @@ const CONFIG_HEXO = {
   POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
 
   ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
-  ARTICLE_COPYRIGHT: true, // 显示文章版权声明
+  ARTICLE_COPYRIGHT: false, // 显示文章版权声明
   ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   WIDGET_LATEST_POSTS: true, // 显示最新文章卡
